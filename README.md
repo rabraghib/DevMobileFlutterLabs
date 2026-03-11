@@ -1,16 +1,25 @@
-# dev_mobile_app
+# Flutter Labs
 
-A new Flutter project.
+Built for the **ENSAM Casablanca** "Dev Mobile & IOT" module.
 
-## Getting Started
+This repository contains various laboratories and practical works for cross-platform mobile development using Flutter.
 
-This project is a starting point for a Flutter application.
+## Tech Stack
 
-A few resources to get you started if this is your first Flutter project:
+- **Framework:** Flutter
+- **Language:** Dart
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Quick Start
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+> [!NOTE]
+> Ensure you have the Flutter SDK installed and configured on your machine.
+
+```bash
+cd FlutterLabs
+flutter pub get
+flutter run
+```
+
+---
+
+<p align="center">Made with ❤️ by <a href="https://rabraghib.com/">Rabyâ Raghib</a></p>
